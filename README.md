@@ -13,4 +13,7 @@ It will search all sub-directories recursively, so it may take a lot of time if 
 ## Future Ideas
 After data is collected, it could be prudent to prune the database of non-dupes. A bash or python script can then be made to automagically erase the dupes by some systemation or another. I never got that far, and I don't really want to make any promises I can't keep either, as this was more of a fun hobby project for me in order to learn Python. Still hope you enjoy it! ^^
 
+## Love
+If you liked this project, consider donating a few hundred bitcoins to 1B7axexG6avxtexusiCETzhqeHtAhqtasc :D
+
 Feel free to copy and edit the code, as per BSD3 license.
