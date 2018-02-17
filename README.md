@@ -2,7 +2,7 @@
 A bare-bones duplicate file finder with Python and SQLite
 
 ## Prereqs
-Some knowledge of how to navigate a Terminal application and use SQL is required to use these scripts. Oh, and you need to know how to run a Python script. Google it if you don't know how.
+Some knowledge of how to navigate a Terminal application and use SQL is required to use these scripts. Oh, and you need to know how to run a Python script. Google it if you don't know how. You may also have to install SQLite3. The files were originally made for UX systems including Mac OS X. For usage on Windoze, you may have to change the script a little, and change direction of a few slashes.
 
 ## Usage
 Run /bin/createTables.py first and then edit /bin/dupeFinder.py to search the folder of your desire. Then the SQLite editor of your choice and input the SQL-statements in /examples/dupeFinder.sql to find duplicates. 
